@@ -1,0 +1,4 @@
+
+
+renderHeader()
+changePage("home")
